@@ -9,6 +9,17 @@
 
 ### Описание проделанной работы
 
+На платформе GitHub я создала новый репозиторий. Написала программу `print ("Hello World!")`. Программа была успешно запущена, текст был выведен в консоль.
+
+### Скриншот результата 
+
+![img_3.png](img_3.png)
+
+### Ссылки на использованные материалы
+
+1. https://evil-teacher.orbiter.website/prog_pm/lab00/
+2. https://doka.guide/tools/markdown/
+3. https://github.com/still-coding/report_demo
 
 
 
