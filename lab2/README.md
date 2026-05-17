@@ -18,8 +18,7 @@
 ![img_1.png](img_1.png)
 
 ### Ссылки на использованные материалы
-https://evil-teacher.orbiter.website/prog_pm/lab02/
-https://evil-teacher.orbiter.website/books/prog_pm/matplotlib.pdf
-https://matplotlib.org/
-https://seaborn.pydata.org/
-https://plotly.com/python/
+1. https://evil-teacher.orbiter.website/prog_pm/lab02/
+2. https://matplotlib.org/
+3. https://seaborn.pydata.org/
+4. https://plotly.com/python/
